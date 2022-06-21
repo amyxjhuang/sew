@@ -23,7 +23,7 @@ function App() {
           <img src={require("./images/sew.png")} id="header-pic" />
           <div className="container">
 
-          <p>hello 2 all the girlies who wanna get into sustainable fashion :) i'm a beginner sewer based in ca and ny. take a look at some sewing resources & see some of my projects making my own clothing!
+          <p>hello 2 everyone who wants to get into sustainable fashion :) i'm a beginner sewer based in ca and ny. take a look at some sewing resources & see some of my projects making my own clothing!
           </p>
 
           </div>
